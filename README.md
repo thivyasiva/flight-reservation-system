@@ -2,6 +2,8 @@
 
 Solo project by Thivya Siva — Toronto Metropolitan University, Bachelor of Commerce, Business Technology Management (minor in Computer Science), expected April 2027.
 
+Completed Winter 2021 — TMU CPS 209 (Computer Science II) final project.
+
 A command-line Java program that models flights departing from Toronto Pearson Airport (YYZ) during a single day. Users can list flights, search by destination or departure time, make a reservation, cancel a reservation, and view all reservations.
 
 > **Note on this repository:** this is the final project for **TMU CPS 209 (Computer Science II)**. It was rebuilt from the assignment description — the original code/files were not available — so it is a fresh implementation of the same assignment, not a copy of anyone else's code. The flight data in `flights.csv` is sample data created for this project.

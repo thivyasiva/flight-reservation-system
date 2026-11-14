@@ -1,0 +1,13 @@
+flightNumber,airline,type,destinationCode,destinationCity,destinationCountry,departureTime,durationMinutes,capacity,price
+AC101,Air Canada,Domestic,YVR,Vancouver,Canada,06:30,305,180,289.00
+WS205,WestJet,Domestic,YYC,Calgary,Canada,07:15,240,174,219.00
+AC315,Air Canada,Domestic,YUL,Montreal,Canada,08:00,75,180,149.00
+AC425,Air Canada,Domestic,YOW,Ottawa,Canada,09:20,60,180,129.00
+WS118,WestJet,Domestic,YHZ,Halifax,Canada,10:45,125,174,199.00
+AC1015,Air Canada,International,LAX,Los Angeles,USA,11:30,330,180,349.00
+BA93,British Airways,International,LHR,London,United Kingdom,13:10,420,250,599.00
+AC865,Air Canada,International,CDG,Paris,France,15:40,440,250,649.00
+WS602,WestJet,International,JFK,New York,USA,17:05,105,174,179.00
+AC185,Air Canada,Domestic,YWG,Winnipeg,Canada,18:30,155,180,189.00
+AC789,Air Canada,International,NRT,Tokyo,Japan,20:15,780,250,899.00
+WS340,WestJet,Domestic,YEG,Edmonton,Canada,21:00,250,174,229.00
